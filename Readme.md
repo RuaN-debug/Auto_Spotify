@@ -25,11 +25,11 @@ Now, after logging in, you go to: https://developer.spotify.com/console/post-pla
 
 ![image](https://user-images.githubusercontent.com/54671133/129482467-30623fc1-b56b-44dd-a9b2-9c0819e6c3de.png)
 
-click on Get Token:
+Click on Get Token:
 
 ![image](https://user-images.githubusercontent.com/54671133/129482554-dd3d0f14-a300-44e6-8aae-60dc432035cd.png)
 
-and mark the playlist-modify-public or playlist-modify-private, depending on the type of your playlist (public or private) and request the token.
+And mark the playlist-modify-public or playlist-modify-private, depending on the type of your playlist (public or private) and request the token.
 
 ![image](https://user-images.githubusercontent.com/54671133/129482596-f6a9e964-0c4a-43a2-9313-6842051bdc2a.png)
 
@@ -39,7 +39,7 @@ Finally, you have everything you need, now in order to make it work you need to 
 
 ![image](https://user-images.githubusercontent.com/54671133/129482677-6811e723-3301-44ee-ac08-c387ee54dcd8.png)
 
-then go to spotify_client and paste the id of your playlist:
+Then go to spotify_client and paste the id of your playlist:
 
 ![image](https://user-images.githubusercontent.com/54671133/129482705-fc5048d3-61dc-4a26-9f51-06320d796e48.png)
 
@@ -47,7 +47,7 @@ Now, all you have to do is to install the requirements with:
 ```sh
 pip install -r requirements.txt
 ```
-and run the main.py file, you can do that with:
+And run the main.py file, you can do that with:
 ```sh
 python main.py
 ```

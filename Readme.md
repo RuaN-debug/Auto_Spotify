@@ -35,7 +35,7 @@ and mark the playlist-modify-public or playlist-modify-private, depending on the
 
 It will appear on the box to the left of the button. all you need to do is copy it.
 
-Finally, you have everything you need, now in order to make it work you need to acces the main.py file and paste the token and the path of the directory with the songs:
+Finally, you have everything you need, now in order to make it work you need to access the main.py file and paste the token and the path of the directory with the songs:
 
 ![image](https://user-images.githubusercontent.com/54671133/129482677-6811e723-3301-44ee-ac08-c387ee54dcd8.png)
 

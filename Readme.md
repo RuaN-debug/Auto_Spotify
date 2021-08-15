@@ -10,7 +10,11 @@ It's quite simple: it saves the names of all the songs, without the extension, l
 
 First of all, you need to have python installed in your pc, you can find the latest version here: https://www.python.org/downloads/
 
-After that, you need to download this repository or clone it by using:
+After that, you need to download this repository by clicking on code and download ZIP:
+
+![image](https://user-images.githubusercontent.com/54671133/129487625-a9686fad-2de2-4d70-9851-5c21fcd301c6.png)
+
+Or clone it by using:
 ```sh
 git clone git@github.com:RuaN-debug/Auto_Spotify.git
 ```

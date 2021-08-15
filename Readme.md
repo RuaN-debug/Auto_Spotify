@@ -43,7 +43,11 @@ then go to spotify_client and paste the id of your playlist:
 
 ![image](https://user-images.githubusercontent.com/54671133/129482705-fc5048d3-61dc-4a26-9f51-06320d796e48.png)
 
-Now, all you have to do is to run the main.py file, you can do that with:
+Now, all you have to do is to install the requirements with:
+```sh
+pip install -r requirements.txt
+```
+and run the main.py file, you can do that with:
 ```sh
 python main.py
 ```

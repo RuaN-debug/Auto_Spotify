@@ -12,7 +12,9 @@ First of all, you need to have python installed in your pc, you can find the lat
 
 After that, you need to download this repository by clicking on code and download ZIP:
 
-![image](https://user-images.githubusercontent.com/54671133/129487625-a9686fad-2de2-4d70-9851-5c21fcd301c6.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/54671133/129487625-a9686fad-2de2-4d70-9851-5c21fcd301c6.png" />
+</p>
 
 Or clone it by using:
 ```sh
@@ -27,25 +29,35 @@ id = 0GfSUFhYrgdJfkIJO2kpbz
 After getting the id you need the token to authorize python to do the work, you can get it by using the official api of spotify: https://developer.spotify.com/dashboard/login
 Now, after logging in, you go to: https://developer.spotify.com/console/post-playlist-tracks/?playlist_id=0GfSUFhYrgdJfkIJO2kpbz&position=&uris= and paste the playlist id:
 
-![image](https://user-images.githubusercontent.com/54671133/129482467-30623fc1-b56b-44dd-a9b2-9c0819e6c3de.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/54671133/129482467-30623fc1-b56b-44dd-a9b2-9c0819e6c3de.png" />
+</p>
 
 Click on Get Token:
 
-![image](https://user-images.githubusercontent.com/54671133/129482554-dd3d0f14-a300-44e6-8aae-60dc432035cd.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/54671133/129482554-dd3d0f14-a300-44e6-8aae-60dc432035cd.png" />
+</p>
 
 And mark the playlist-modify-public or playlist-modify-private, depending on the type of your playlist (public or private) and request the token.
 
-![image](https://user-images.githubusercontent.com/54671133/129482596-f6a9e964-0c4a-43a2-9313-6842051bdc2a.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/54671133/129482596-f6a9e964-0c4a-43a2-9313-6842051bdc2a.png" />
+</p>
 
 It will appear on the box to the left of the button. all you need to do is copy it.
 
 Finally, you have everything you need, now in order to make it work you need to access the main.py file and paste the token and the path of the directory with the songs:
 
-![image](https://user-images.githubusercontent.com/54671133/129482677-6811e723-3301-44ee-ac08-c387ee54dcd8.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/54671133/129482677-6811e723-3301-44ee-ac08-c387ee54dcd8.png" />
+</p>
 
 Then go to spotify_client and paste the id of your playlist:
 
-![image](https://user-images.githubusercontent.com/54671133/129482705-fc5048d3-61dc-4a26-9f51-06320d796e48.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/54671133/129482705-fc5048d3-61dc-4a26-9f51-06320d796e48.png" />
+</p>
 
 Now, all you have to do is to install the requirements with:
 ```sh
